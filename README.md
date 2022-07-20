@@ -1,3 +1,3 @@
 # clone
-pull
-2 pull
+pull 
+# 2 pull
